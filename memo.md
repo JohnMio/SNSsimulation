@@ -1,3 +1,12 @@
 使用しそうな言語羅列
 HTML CSS Javascript PHP typescript 
 サイト公開はCloudflare
+やることリスト
+HTMLで投稿画面の基礎を作成する
+CSSとJAVAscriptで体裁を整える
+投稿をPHPに投げれるようにする
+PHPがAIに投稿内容を処理させる命令ができるようにする
+AIから受け取ったJSON形式のデータを投稿内容として表示する
+AIから分析内容を受け取って表示する
+
+
