@@ -1,0 +1,133 @@
+<mxfile host="65bd71144e">
+    <diagram id="kSEHec5N4HaaTsRInu9l" name="ページ-1">
+        <mxGraphModel dx="1516" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;疑似SNSによる炎上リスクの可視化を行い&lt;br&gt;炎上理由の分析ができるAIシミュレーション&lt;/h1&gt;" vertex="1">
+                    <mxGeometry height="100" width="500" x="268" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="投稿に対する反応を確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="531" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="結果が炎上だった場合炎上理由を確認する" vertex="1">
+                    <mxGeometry height="60" width="130" x="665" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="シミュレーションの設定を行う" vertex="1">
+                    <mxGeometry height="60" width="120" x="5" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="設定する" vertex="1">
+                    <mxGeometry height="60" width="120" x="5" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="結果を確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="400" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="投稿する" vertex="1">
+                    <mxGeometry height="60" width="120" x="140" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="投稿予定の内容を&lt;br&gt;投稿する" vertex="1">
+                    <mxGeometry height="60" width="120" x="140" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="インフルエンサーや&lt;br&gt;企業の広報" vertex="1">
+                    <mxGeometry height="60" width="120" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="一般のSNSユーザー" vertex="1">
+                    <mxGeometry height="60" width="120" x="5" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-16" edge="1" parent="1" style="endArrow=none;html=1;strokeWidth=4;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="10" y="210" as="sourcePoint"/>
+                        <mxPoint x="810" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-17" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="10" y="290" as="sourcePoint"/>
+                        <mxPoint x="810" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-18" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="10" y="370" as="sourcePoint"/>
+                        <mxPoint x="810" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="基底の設定で開始する" vertex="1">
+                    <mxGeometry height="60" width="120" x="5" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="投稿内容を文字入力する" vertex="1">
+                    <mxGeometry height="60" width="120" x="140" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-22" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="5" y="450" as="sourcePoint"/>
+                        <mxPoint x="805" y="450" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="投稿ボタンを押す" vertex="1">
+                    <mxGeometry height="60" width="120" x="275" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="投稿に直接つけられた反応を確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="534" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="AIに炎上した理由の分析結果を表示させる" vertex="1">
+                    <mxGeometry height="60" width="120" x="675" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="炎上を回避する方法を提示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="675" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="投稿するアカウントのジャンルを決める" vertex="1">
+                    <mxGeometry height="60" width="120" x="5" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Twitter以外のSNSでも&lt;br&gt;シミュレーションができるようにする" vertex="1">
+                    <mxGeometry height="60" width="130" x="5" y="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="画像を投稿する" vertex="1">
+                    <mxGeometry height="60" width="120" x="135" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-32" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="5" y="530" as="sourcePoint"/>
+                        <mxPoint x="805" y="530" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="動画を投稿する" vertex="1">
+                    <mxGeometry height="60" width="120" x="135" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="SNSによる反応差を確認する" vertex="1">
+                    <mxGeometry height="60" width="140" x="525" y="545" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-39" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ウォーキングスケルトン" vertex="1">
+                    <mxGeometry height="70" width="110" x="-150" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-40" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;投稿の自由度アップと反応の種類を追加&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="70" width="110" x="-150" y="375" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="TLを構築して&lt;br&gt;他者間の反応による炎上を確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="400" y="545" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-42" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="詳細な設定と分析後の回避方法提示" vertex="1">
+                    <mxGeometry height="70" width="110" x="-150" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-43" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="汎用性アップ" vertex="1">
+                    <mxGeometry height="70" width="110" x="-150" y="535" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="シミュレーション結果を保持させる" vertex="1">
+                    <mxGeometry height="60" width="130" x="805" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="データベースに以前の投稿内容を保持する" vertex="1">
+                    <mxGeometry height="60" width="120" x="810" y="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="リプライを表示する" vertex="1">
+                    <mxGeometry height="60" width="120" x="400" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="複数のリプライがつく" vertex="1">
+                    <mxGeometry height="60" width="120" x="400" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="v5A19XCJPh3wL9NfaPg9-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="一件の肯定か否定のリプライがつく" vertex="1">
+                    <mxGeometry height="60" width="120" x="403" y="300" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
