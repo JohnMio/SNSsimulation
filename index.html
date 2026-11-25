@@ -23,6 +23,7 @@
             <nav class="sidebar-nav">
                 <div class="menu-group">
                     <button class="menu-item">概要</button>
+                    <!-- このdivはbuttonが押されたときに表示 -->
                     <div class="menu-content">
                         <!-- ここに内容記述 -->
                         <p>このサイトは、SNSでの炎上をシミュレーションするためのツールです。ユーザーが投稿した内容に対して、どのような反応が返ってくるかを予測し、炎上のリスクを評価します。</p>
@@ -44,6 +45,17 @@
                 </div>
             </nav>
         </aside>
+        <!-- 投稿部分 -->
+        <main class="main-content">
+            <section class="post-section">
+                <h2>投稿内容</h2>
+                <!-- 投稿フォーム -->
+                <form id="postForm">
+                    <textarea id="postContent" placeholder="ここに投稿内容を入力してください..." required></textarea>
+                </form>
+            </section>
+
+        </main>
     </div>
 
 </body>
